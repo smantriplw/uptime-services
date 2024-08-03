@@ -10,6 +10,9 @@ sites:
   - name: Cekdata website (vercel)
     url: https://cekdata-v2.sman3palu.sch.id
 
+assignees:
+  - hansputera
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
