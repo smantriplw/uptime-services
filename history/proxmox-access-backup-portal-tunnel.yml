@@ -1,7 +1,7 @@
-url: https://proxmox-cfd.sman3palu.sch.id
+url: https://ssh-proxmox.sman3palu.sch.id
 status: down
 code: 403
-responseTime: 50
-lastUpdated: 2024-08-03T23:49:22.001Z
+responseTime: 713
+lastUpdated: 2024-08-03T23:57:45.376Z
 startTime: 2024-08-03T23:49:21.930Z
 generator: Upptime <https://github.com/upptime/upptime>
