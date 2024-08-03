@@ -26,7 +26,7 @@ sites:
   - name: Dapodik Portal (tunnel)
     url: https://dapodik.sman3palu.sch.id
   - name: Proxmox Access Backup Portal (tunnel)
-    url: https://proxmox-cfd.sman3palu.sch.id
+    url: https://ssh-proxmox.sman3palu.sch.id
   - name: phpMyAdmin Portal (tunnel)
     url: https://phpmyadmin.sman3palu.sch.id
 
