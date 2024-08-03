@@ -13,6 +13,9 @@ sites:
 assignees:
   - hansputera
 
+i18n:
+  footer: "© SMA Negeri 3 Palu 2024. All rights reserved"
+
 commitMessages:
   commitAuthorName: "SMA Negeri 3 Palu"
   commitAuthorEmail: "dev@sman3palu.sch.id"
@@ -23,7 +26,7 @@ status-website:
   cname: status.sman3palu.sch.id
   # baseUrl: /your-repo-name
   logoUrl: https://cbt.sman3palu.sch.id/uploads/settings/logo_kanan.png
-  name: Upptime
+  name: SMA Negeri 3 Palu
   introTitle: "**SMA Negeri 3 Palu** adalah Sekolah Menengah Atas terakreditasi **A** yang terletak di Palu, Sulawesi Tengah, Indonesia."
   introMessage: Selamat datang di sistem daring monitoring layanan yang aktif dan digunakan di SMA Negeri 3 Palu.
   navbar:
