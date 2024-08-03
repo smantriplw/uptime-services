@@ -10,13 +10,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 243,
-    "timeDay": 243,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "time": 228,
+    "timeDay": 228,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2024-08-03": 8
+      "2024-08-03": 12
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cekdata.sman3palu.sch.id.ico",
     "slug": "cekdata-website-tunnel",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
-    "time": 286,
-    "timeDay": 286,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 260,
+    "timeDay": 260,
+    "timeWeek": 260,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2024-08-03": 8
+      "2024-08-03": 12
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 486,
-    "timeWeek": 486,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "time": 400,
+    "timeDay": 400,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   }
 ]
