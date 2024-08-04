@@ -30,10 +30,12 @@ sites:
   - name: phpMyAdmin Portal (tunnel)
     url: https://phpmyadmin.sman3palu.sch.id
   # External services
-  - name: [EXTERNAL] Telkom ASTinet Monitoring
+  - name: "[EXTERNAL] Telkom ASTinet Monitoring"
     url: https://telkomcare.telkom.co.id/mrtgnetcare2
-  - name: [EXTERNAL] Kemdikbud VervalPD
+  - name: "[EXTERNAL] Kemdikbud VervalPD"
     url: https://vervalpd.data.kemdikbud.go.id
+  - name: "[EXTERNAL] Kemdikbud Datadik"
+    url: https://datadik.kemdikbud.go.id/acc/login
 
 assignees:
   - hansputera
