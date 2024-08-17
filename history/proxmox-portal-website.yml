@@ -1,7 +1,7 @@
 url: https://proxmox.sman3palu.sch.id
-status: down
-code: 523
-responseTime: 304
-lastUpdated: 2024-08-17T23:10:23.468Z
+status: up
+code: 200
+responseTime: 996
+lastUpdated: 2024-08-17T23:21:33.112Z
 startTime: 2024-08-03T23:49:07.937Z
 generator: Upptime <https://github.com/upptime/upptime>
