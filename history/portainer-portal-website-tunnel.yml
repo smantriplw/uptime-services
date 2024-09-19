@@ -1,7 +1,7 @@
 url: https://docker.sman3palu.sch.id
-status: up
-code: 200
-responseTime: 840
-lastUpdated: 2024-09-19T08:56:59.819Z
+status: down
+code: 502
+responseTime: 803
+lastUpdated: 2024-09-19T17:59:29.275Z
 startTime: 2024-08-03T23:49:12.010Z
 generator: Upptime <https://github.com/upptime/upptime>
