@@ -1,7 +1,7 @@
 url: https://cekdata.sman3palu.sch.id
-status: up
-code: 200
-responseTime: 915
-lastUpdated: 2024-09-27T07:39:39.905Z
+status: down
+code: 502
+responseTime: 1364
+lastUpdated: 2024-09-27T08:03:43.038Z
 startTime: 2024-08-03T23:26:48.384Z
 generator: Upptime <https://github.com/upptime/upptime>
