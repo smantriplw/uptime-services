@@ -7,10 +7,10 @@ sites:
     url: https://sman3palu.sch.id
   - name: Dokumentasi/Foto Website (tunnel)
     url: https://dokumentasi.sman3palu.sch.id/owncloud
-  - name: CBT (Computer Based Test) Website (proxmox)
-    url: https://cbt.sman3palu.sch.id
+  - name: CBT (Computer Based Test) Website (proxmox tunnel)
+    url: https://cbt-cfd.sman3palu.sch.id
   - name: Proxmox Portal Website
-    url: https://proxmox.sman3palu.sch.id
+    url: https://proxmox-cfd.sman3palu.sch.id
   - name: Gitea Website (proxmox)
     url: https://git.sman3palu.sch.id
   - name: Portainer Portal Website (tunnel)
@@ -22,7 +22,7 @@ sites:
   - name: Cekdata Website (vercel)
     url: https://cekdata-v2.sman3palu.sch.id
   - name: ERapor K13 Website (tunnel)
-    url: https://erapor.sman3palu.sch.id
+    url: https://erapor-k13.sman3palu.sch.id
   - name: ERapor KM Website (tunnel)
     url: https://eraporkm.sman3palu.sch.id
   - name: Dapodik Portal (tunnel)
