@@ -1,7 +1,7 @@
 url: https://portainer.sman3palu.sch.id
-status: up
-code: 200
-responseTime: 945
-lastUpdated: 2024-10-15T00:52:22.663Z
+status: down
+code: 502
+responseTime: 1065
+lastUpdated: 2024-10-15T02:11:41.571Z
 startTime: 2024-08-31T07:04:10.962Z
 generator: Upptime <https://github.com/upptime/upptime>
