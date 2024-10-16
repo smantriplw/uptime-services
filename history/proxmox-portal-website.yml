@@ -1,7 +1,7 @@
 url: https://proxmox-cfd.sman3palu.sch.id
-status: down
-code: 530
-responseTime: 1141
-lastUpdated: 2024-10-16T11:39:32.664Z
+status: up
+code: 200
+responseTime: 690
+lastUpdated: 2024-10-16T11:47:34.658Z
 startTime: 2024-08-03T23:49:07.937Z
 generator: Upptime <https://github.com/upptime/upptime>
