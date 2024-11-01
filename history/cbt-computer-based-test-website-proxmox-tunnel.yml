@@ -1,7 +1,7 @@
 url: https://cbt-cfd.sman3palu.sch.id
-status: up
-code: 200
-responseTime: 760
-lastUpdated: 2024-10-31T23:13:58.836Z
+status: down
+code: 502
+responseTime: 1040
+lastUpdated: 2024-11-01T05:30:48.957Z
 startTime: 2024-10-13T05:46:41.597Z
 generator: Upptime <https://github.com/upptime/upptime>
