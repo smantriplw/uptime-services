@@ -1,7 +1,7 @@
 url: https://telkomcare.telkom.co.id/mrtgnetcare2
-status: up
-code: 200
-responseTime: 1063
-lastUpdated: 2024-12-01T10:13:08.536Z
+status: down
+code: 404
+responseTime: 759
+lastUpdated: 2024-12-01T10:45:58.462Z
 startTime: 2024-08-04T04:09:24.868Z
 generator: Upptime <https://github.com/upptime/upptime>
