@@ -10,9 +10,9 @@ sites:
   - name: Verval Website
     url: https://verval.sman3palu.sch.id
   - name: ERapor K13 Website
-    url: https://erapor-k13.sman3palu.sch.id
+    url: https://ek13.sman3palu.sch.id
   - name: ERapor KM Website
-    url: https://eraporkm.sman3palu.sch.id
+    url: https://ekm.sman3palu.sch.id
   - name: Dapodik Portal
     url: https://dapodik.sman3palu.sch.id
   - name: SNBTX Website
