@@ -16,6 +16,7 @@ sites:
   - name: Dapodik Portal
     url: https://dapodik.sman3palu.sch.id
   - name: SNBTX Website
+    url: https://snbtx.sman3palu.sch.id
   - name: phpMyAdmin Portal (tunnel)
     url: https://phpmyadmin.sman3palu.sch.id
   - name: Links (tunnel)
