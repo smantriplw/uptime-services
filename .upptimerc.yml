@@ -5,36 +5,21 @@ repo: uptime-services # The name of this repository
 sites:
   - name: Website
     url: https://sman3palu.sch.id
-  - name: Dokumentasi/Foto Website (tunnel)
+  - name: Dokumentasi/Foto Website
     url: https://dokumentasi.sman3palu.sch.id/owncloud
-  - name: CBT (Computer Based Test) Website (proxmox tunnel)
-    url: https://cbt-cfd.sman3palu.sch.id
-  - name: Proxmox Portal Website
-    url: https://proxmox-cfd.sman3palu.sch.id
-  - name: Gitea Website (proxmox)
-    url: https://git.sman3palu.sch.id
-  - name: Portainer Portal Website (tunnel)
-    url: https://docker.sman3palu.sch.id
-  - name: Portainer Portal Website for Proxmox (tunnel)
-    url: https://portainer.sman3palu.sch.id
-  - name: Cekdata Website (tunnel)
-    url: https://cekdata.sman3palu.sch.id
-  - name: Cekdata Website (vercel)
-    url: https://cekdata-v2.sman3palu.sch.id
-  - name: ERapor K13 Website (tunnel)
+  - name: Verval Website
+    url: https://verval.sman3palu.sch.id
+  - name: ERapor K13 Website
     url: https://erapor-k13.sman3palu.sch.id
-  - name: ERapor KM Website (tunnel)
+  - name: ERapor KM Website
     url: https://eraporkm.sman3palu.sch.id
-  - name: Dapodik Portal (tunnel)
+  - name: Dapodik Portal
     url: https://dapodik.sman3palu.sch.id
-  - name: Proxmox Access Backup Portal (tunnel)
-    url: https://ssh-proxmox.sman3palu.sch.id
+  - name: SNBTX Website
   - name: phpMyAdmin Portal (tunnel)
     url: https://phpmyadmin.sman3palu.sch.id
   - name: Links (tunnel)
     url: https://links.sman3palu.sch.id
-  - name: "[DONATION] AmbisCamp Moodle (tunnel)"
-    url: https://ambiscamp-cbt.sman3palu.sch.id
   # External services
   - name: "[EXTERNAL] Telkom ASTinet Monitoring"
     url: https://telkomcare.telkom.co.id/mrtgnetcare2
