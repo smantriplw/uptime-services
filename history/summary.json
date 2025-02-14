@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-14": 2
+      "2025-02-14": 3
     }
   },
   {
@@ -154,7 +154,7 @@
     "timeMonth": 2032,
     "timeYear": 2032,
     "dailyMinutesDown": {
-      "2025-02-14": 2
+      "2025-02-14": 3
     }
   },
   {
@@ -316,9 +316,9 @@
     "slug": "links-tunnel",
     "status": "down",
     "uptime": "71.58%",
-    "uptimeDay": "31.79%",
+    "uptimeDay": "31.77%",
     "uptimeWeek": "9.88%",
-    "uptimeMonth": "62.92%",
+    "uptimeMonth": "62.91%",
     "uptimeYear": "71.58%",
     "time": 1208,
     "timeDay": 4306,
@@ -326,7 +326,7 @@
     "timeMonth": 1358,
     "timeYear": 1208,
     "dailyMinutesDown": {
-      "2025-02-14": 210,
+      "2025-02-14": 211,
       "2025-02-13": 1208,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
