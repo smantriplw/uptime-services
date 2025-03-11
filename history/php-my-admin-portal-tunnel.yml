@@ -1,7 +1,7 @@
 url: https://phpmyadmin.sman3palu.sch.id
-status: up
-code: 200
-responseTime: 2879
-lastUpdated: 2025-03-11T02:35:04.480Z
+status: down
+code: 502
+responseTime: 4217
+lastUpdated: 2025-03-11T03:37:28.466Z
 startTime: 2024-08-03T23:49:24.184Z
 generator: Upptime <https://github.com/upptime/upptime>
