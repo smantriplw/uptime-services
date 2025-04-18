@@ -11,16 +11,16 @@ sites:
     url: https://verval.sman3palu.sch.id
   - name: ERapor K13 Website
     url: https://ek13.sman3palu.sch.id
+  - name: ERapor Kelas 12 Website
+    url: https://erapor12.sman3palu.sch.id
   - name: ERapor KM Website
     url: https://ekm.sman3palu.sch.id
   - name: Dapodik Portal
     url: https://dapodik.sman3palu.sch.id
   - name: SNBTX Website
     url: https://snbtx.sman3palu.sch.id
-  - name: phpMyAdmin Portal (tunnel)
-    url: https://phpmyadmin.sman3palu.sch.id
-  - name: Links (tunnel)
-    url: https://links.sman3palu.sch.id
+  - name: SNBP Mirror
+    url: https://snbp.sman3palu.sch.id
   # External services
   - name: "[EXTERNAL] Telkom ASTinet Monitoring"
     url: https://telkomcare.telkom.co.id/mrtgnetcare2
@@ -37,7 +37,7 @@ i18n:
 
 commitMessages:
   commitAuthorName: "SMA Negeri 3 Palu"
-  commitAuthorEmail: "dev@sman3palu.sch.id"
+  commitAuthorEmail: "operator@mail.sman3palu.sch.id"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
