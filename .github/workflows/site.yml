@@ -6,7 +6,7 @@
 # Your changes will be overwritten when the Upptime template updates (by default, weekly)
 # Instead, change .upptimerc.yml configuration and the workflows will be generated accordingly.
 #
-# 🔼 Upptime @v1.39.0
+# 🔼 Upptime @v1.40.1
 # GitHub-powered open-source uptime monitor and status page by Anand Chowdhary
 
 # * Source: https://github.com/upptime/upptime
@@ -33,7 +33,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate site
-        uses: upptime/uptime-monitor@v1.39.0
+        uses: upptime/uptime-monitor@v1.40.1
         with:
           command: "site"
         env:
@@ -45,4 +45,4 @@ jobs:
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
           user_name: "SMA Negeri 3 Palu"
-          user_email: "dev@sman3palu.sch.id"
+          user_email: "operator@mail.sman3palu.sch.id"
