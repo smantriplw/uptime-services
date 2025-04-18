@@ -21,6 +21,8 @@ sites:
     url: https://snbtx.sman3palu.sch.id
   - name: SNBP Mirror
     url: https://snbp.sman3palu.sch.id
+  - name: MikroTik
+    url: https://routeros.sman3palu.sch.id
   # External services
   - name: "[EXTERNAL] Telkom ASTinet Monitoring"
     url: https://telkomcare.telkom.co.id/mrtgnetcare2
