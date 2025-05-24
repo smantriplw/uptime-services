@@ -1,7 +1,7 @@
 url: https://datadik.kemdikbud.go.id/acc/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-23T23:18:27.559Z
+status: up
+code: 200
+responseTime: 2531
+lastUpdated: 2025-05-24T08:56:15.314Z
 startTime: 2024-08-04T04:09:29.156Z
 generator: Upptime <https://github.com/upptime/upptime>
